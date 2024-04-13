@@ -1,0 +1,48 @@
+.peon img{
+  background-size: cover;
+  
+    display: flex;
+  height: 200px;
+  width: 100%;
+  border: black solid;
+    
+  
+  
+  }
+  
+  
+  
+
+  
+  
+  .user{
+      display: flex;
+  height: 50px;
+  width: auto;
+  justify-content: center;
+  }
+
+
+
+  
+  .redes{
+    display: flex;
+    justify-content:space-between;
+    height: 50px;
+    background-color: black;
+    border:  purple solid;
+    
+  }  
+
+
+
+  
+  
+  
+  .ultra23 img{
+  
+      background-size:cover;
+    display: flex;
+  height: 200px;
+  width: 100%;
+  }
